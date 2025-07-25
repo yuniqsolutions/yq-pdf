@@ -1,0 +1,15 @@
+node_modules
+dist
+releases
+src
+attachment.pdf
+build.sh
+bun.lock
+eg.ts
+global.d.ts
+tsconfig.json
+test
+Go
+data
+scripts
+copy-package.ts
