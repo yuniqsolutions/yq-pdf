@@ -13,3 +13,6 @@ Go
 data
 /scripts
 copy-package.ts
+package-lock.json
+dts.config.json
+tsconfig.dts.json
