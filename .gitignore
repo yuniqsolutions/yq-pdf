@@ -11,5 +11,5 @@ tsconfig.json
 test
 Go
 data
-scripts
+/scripts
 copy-package.ts
