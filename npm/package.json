@@ -1,0 +1,41 @@
+{
+  "name": "yq-pdf",
+  "version": "0.0.2",
+  "description": "High-performance PDF manipulation library with native processing capabilities. Supports encryption, decryption, merging, splitting, watermarking, optimization, and comprehensive PDF operations with both file and buffer support.",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "type": "module",
+  "keywords": [
+    "yq",
+    "pdf",
+    "pdf-manipulation",
+    "pdf-processing",
+    "encryption",
+    "decryption",
+    "merge",
+    "split",
+    "watermark",
+    "optimization",
+    "typescript",
+    "nodejs",
+    "high-performance",
+    "native",
+    "buffer-support",
+    "pdf-tools",
+    "document-processing",
+    "yuniq-solutions"
+  ],
+  "author": "Yuniq Solutions Team <git@yuniq.solutions>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "require": "./index.cjs",
+      "types": "./index.d.ts"
+    }
+  }
+}

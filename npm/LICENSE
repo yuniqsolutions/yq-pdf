@@ -1,0 +1,131 @@
+MIT License
+
+Copyright (c) 2024 Yuniq Solutions Tech
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+ADDITIONAL TERMS AND CONDITIONS
+
+1. ATTRIBUTION REQUIREMENTS
+   - When using this software in commercial applications, attribution to 
+     "Yuniq Solutions Tech" must be maintained in the software documentation
+     or about section.
+   - The original copyright notice must remain intact in all derivative works.
+
+2. COMMERCIAL USE
+   - This software may be used for commercial purposes without additional
+     licensing fees.
+   - Commercial users are encouraged to contribute improvements back to the
+     open source community.
+
+3. DISTRIBUTION
+   - Redistributions of source code must retain the above copyright notice,
+     this list of conditions and the following disclaimer.
+   - Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions and the following disclaimer in the documentation
+     and/or other materials provided with the distribution.
+
+4. MODIFICATIONS
+   - Modified versions of this software may be distributed under the same
+     license terms.
+   - Clear indication of modifications must be provided in derivative works.
+
+5. THIRD-PARTY COMPONENTS
+   - This software may include third-party components with their own licensing
+     terms. Users are responsible for complying with such terms.
+   - A list of third-party components and their licenses can be found in the
+     project documentation.
+
+6. SUPPORT AND WARRANTY DISCLAIMER
+   - This software is provided "as is" without warranty of any kind.
+   - Yuniq Solutions Tech provides no guarantee of support, maintenance, or
+     updates.
+   - Users assume all risks associated with the use of this software.
+
+7. LIMITATION OF LIABILITY
+   - In no event shall Yuniq Solutions Tech be liable for any direct, indirect,
+     incidental, special, exemplary, or consequential damages (including, but
+     not limited to, procurement of substitute goods or services; loss of use,
+     data, or profits; or business interruption) however caused and on any
+     theory of liability, whether in contract, strict liability, or tort
+     (including negligence or otherwise) arising in any way out of the use of
+     this software, even if advised of the possibility of such damage.
+
+8. GOVERNING LAW
+   - This license shall be governed by and construed in accordance with the
+     laws of the jurisdiction where Yuniq Solutions Tech is incorporated.
+   - Any disputes arising under this license shall be resolved through
+     appropriate legal channels in said jurisdiction.
+
+9. TERMINATION
+   - This license is effective until terminated.
+   - Your rights under this license will terminate automatically without notice
+     if you fail to comply with any term(s) of this license.
+   - Upon termination, you must cease all use of the software and destroy all
+     copies in your possession.
+
+10. ENTIRE AGREEMENT
+    - This license constitutes the entire agreement between the parties with
+      respect to the use of the software licensed hereunder and supersedes all
+      prior or contemporaneous understandings regarding such subject matter.
+    - No amendment to or modification of this license will be binding unless
+      in writing and signed by Yuniq Solutions Tech.
+
+================================================================================
+
+CONTACT INFORMATION
+
+For questions regarding this license or the software:
+
+Organization: Yuniq Solutions Tech
+Email: git@yuniq.solutions
+Website: https://github.com/yuniqsolutions/yq-pdf
+Repository: https://github.com/yuniqsolutions/yq-pdf
+
+For commercial licensing inquiries or enterprise support:
+Email: git@yuniq.solutions
+
+================================================================================
+
+ACKNOWLEDGMENTS
+
+This software is developed and maintained by the Yuniq Solutions Team.
+We acknowledge the contributions of the open source community and the
+various libraries and tools that make this project possible.
+
+Special thanks to all contributors, testers, and users who help improve
+this software through feedback, bug reports, and feature requests.
+
+================================================================================
+
+VERSION HISTORY
+
+v1.0.0 - Initial release with comprehensive PDF manipulation capabilities
+       - High-performance native processing
+       - Full TypeScript support
+       - Buffer and file-based operations
+       - Extensive API coverage for PDF operations
+
+================================================================================
+
+This license file was last updated on: 2024
+For the most current version of this license, please visit:
+https://github.com/yuniqsolutions/yq-pdf/blob/main/LICENSE
