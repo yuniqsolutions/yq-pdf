@@ -1,6 +1,6 @@
 {
   "name": "yq-pdf",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "High-performance PDF manipulation library with native processing capabilities. Supports encryption, decryption, merging, splitting, watermarking, optimization, and comprehensive PDF operations with both file and buffer support.",
   "main": "index.js",
   "types": "./index.d.ts",
